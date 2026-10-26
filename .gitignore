@@ -1,0 +1,12 @@
+# 本地工具与运行产物
+.tools/
+*.log
+
+# 个人回滚记录（仓库只保留 scripts/rollback.sample.json）
+rollback.json
+packages_before.txt
+packages_paths.txt
+
+# 二进制
+*.apk
+*.zip
