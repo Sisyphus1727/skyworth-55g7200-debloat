@@ -1,0 +1,18 @@
+[
+  { "pkg": "com.coocaa.ad.webview",            "apk": "/data/app/com.coocaa.ad.webview-1/base.apk" },
+  { "pkg": "com.coocaa.guide",                 "apk": "/system/vendor/app/CoocaaGuide/CoocaaGuide.apk" },
+  { "pkg": "com.coocaa.messageprovider",       "apk": "/system/vendor/app/MessageBox/MessageBox.apk" },
+  { "pkg": "com.tianci.logcatcher",            "apk": "/system/vendor/app/SkyDataService/SkyDataService.apk" },
+  { "pkg": "com.tianci.push",                  "apk": "/system/vendor/app/SkyPushService/SkyPushService.apk" },
+  { "pkg": "com.coocaa.x.app.hall",            "apk": "/system/vendor/app/SkyHall/SkyHall.apk" },
+  { "pkg": "com.coocaa.skyoscts",              "apk": "/system/vendor/app/SkyAutoTest/SkyAutoTest.apk" },
+  { "pkg": "com.coocaa.tvpitv",                "apk": "/system/vendor/app/SkyTvPi/SkyTvPi.apk" },
+  { "pkg": "com.skyworth.lafite.srtnj.speechserver", "apk": "/system/vendor/app/SkyXiaoWei/SkyXiaoWei.apk" },
+  { "pkg": "com.skyworth.smarthome_tv",        "apk": "/system/vendor/app/SkySmartHome/SkySmartHome.apk" },
+  { "pkg": "com.skyworth.voip",                "apk": "/system/vendor/app/SkyTVQQ/SkyTVQQ.apk" },
+  { "pkg": "com.tianci.taskmanager",           "apk": "/system/vendor/app/SkyTaskManager/SkyTaskManager.apk" },
+  { "pkg": "com.coocaa.remotectrlservice",     "apk": "/system/vendor/app/SkyTVAgent/SkyTVAgent.apk" },
+  { "pkg": "com.coocaa.sky.ccapi",             "apk": "/system/vendor/app/SkyPayCenter/SkyPayCenter.apk" },
+  { "pkg": "com.tianci.movieplatform",         "apk": "/data/app/com.tianci.movieplatform-1/base.apk" },
+  { "pkg": "com.tianci.ad",                    "apk": "/data/app/com.tianci.ad-1/base.apk" }
+]
